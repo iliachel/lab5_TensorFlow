@@ -28,8 +28,8 @@ from sklearn.decomposition import PCA
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from tensorflow import keras
-from tensorflow.keras import layers
-from tensorflow.keras.callbacks import EarlyStopping
+from keras._tf_keras.keras import layers
+from keras._tf_keras.keras.callbacks import EarlyStopping
 import os
 
 # --- Konfiguratsiya ---
