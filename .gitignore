@@ -1,0 +1,21 @@
+# Data files
+dataIn.txt
+dataOut.txt
+
+# Saved models
+*.h5
+*.keras
+
+# Plots and logs
+plots/
+*.log
+
+# Python virtual environment
+venv/
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
